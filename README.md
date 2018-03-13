@@ -1,1 +1,0 @@
-# pluralsight-redux-starter-mmt
